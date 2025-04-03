@@ -2,7 +2,7 @@
 지뢰찾기 게임을 파이썬(Pygame)으로 구현한 프로젝트입니다! 🎮  
 
 ## 📷 스크린샷  
-![Minesweeper]("C:\Users\이건우\Desktop\대학교\프로그래밍언어활용\지뢰찾기 사진.png")
+![Minesweeper](screenshot.png")
 
 ## 🎯 게임 소개  
 - 10x10 그리드에서 지뢰를 피하면서 모든 빈 칸을 오픈하세요!  
